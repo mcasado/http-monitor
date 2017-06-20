@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisProjectProfileManager">
+    <option name="PROJECT_PROFILE" />
+    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+    <list size="0" />
+  </component>
+  <component name="CheckstyleConfigurable">
+    <option name="suppFilterFilename" value="" />
+    <option name="suppCommentFilter" value="false" />
+    <option name="offComment" value="CHECKSTYLE\:OFF" />
+    <option name="onComment" value="CHECKSTYLE\:ON" />
+    <option name="checkFormat" value=".*" />
+    <option name="messageFormat" value="" />
+    <option name="checkCPP" value="true" />
+    <option name="checkC" value="true" />
+    <option name="suppNearbyCommentFilter" value="false" />
+    <option name="snCommentFormat" value="SUPPRESS CHECKSTYLE (\w+)" />
+    <option name="snCheckFormat" value="$1" />
+    <option name="snMessageFormat" value="" />
+    <option name="snInfluenceFormat" value="0" />
+    <option name="snCheckCPP" value="true" />
+    <option name="snCheckC" value="true" />
+  </component>
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+  </component>
+  <component name="GradleUISettings">
+    <setting name="root" />
+  </component>
+  <component name="GradleUISettings2">
+    <setting name="root" />
+  </component>
+  <component name="IdProvider" IDEtalkID="690F290D95864EFAA05D628443D1E788" />
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>NonSerializableWithSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SuppressionsComponent">
+    <option name="suppCommentEnabled" value="false" />
+    <option name="suppComment" value="SUPPRESS CODING RULES" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+</project>
