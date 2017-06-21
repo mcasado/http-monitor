@@ -5,7 +5,7 @@ It has been implemented with Java and Apache Camel routes and created a custom c
 
 The current implementation has the following restrictions;
 
-* Use the Myers diff algorithm (com.googlecode.java-diff-utils) to find the diffs 
+* Use the Myers diff algorithm (com.googlecode.java-diff-utils) to find the differences between page contents 
 *   
 
 ### TODOs
