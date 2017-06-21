@@ -50,14 +50,11 @@ public class HttpMonitorTest {
         // Mailbox.clearAll();
         CountDownLatch latch = new CountDownLatch(1);
         latch.await(20, TimeUnit.SECONDS);
-
-        // Check for meter-reads error email and audit email
+            
         List<Message> inbox = Mailbox.get("test@test.com");
         assertTrue(inbox.size() >= 1);
         String subject = inbox.get(0).getSubject();
-        //   assertTrue(subject.contains("Tendril CMP ETL RPC errors:"));
-        //   String errorBody = inboxSupport.get(0).getContent().toString();
-        //  assertTrue(errorBody.contains("MeterReads Rpc Failure:"));
+     
     }
 
 
